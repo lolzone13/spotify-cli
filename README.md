@@ -1,2 +1,2 @@
-# spotify-stats
-A clone of the spotistats website
+# spotify-cli
+Use spotify from the cli
